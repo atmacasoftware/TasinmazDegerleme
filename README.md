@@ -1,0 +1,2 @@
+# TasinmazDegerleme
+Taşınmaz Değerleme Sistemi
